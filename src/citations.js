@@ -1,7 +1,7 @@
 module.exports = {
   citation1: {
     auteur: 'Rudy Onfroy',
-    citation: 'Qui veut allez boire une bière ... mais juste une hein',
+    citation: 'Qui veut allez boire une bière ? ... mais juste une hein',
    },
   citation2: {
     auteur: 'Harrari Hakim',
