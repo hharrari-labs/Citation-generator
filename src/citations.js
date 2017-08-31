@@ -1,7 +1,7 @@
 module.exports = {
   citation1: {
     auteur: 'Rudy Onfroy',
-    citation: 'De toute manière, moi j\'ai pas une copine mais plusieurs, une qui fait le ménage, une qui cuisine et une qui ...',
+    citation: 'Qui veut allez boire une bière ... mais juste une hein',
    },
   citation2: {
     auteur: 'Harrari Hakim',
@@ -13,7 +13,7 @@ module.exports = {
   },
   citation4: {
     auteur: 'Elodie Montel',
-    citation: 'Tu sait, ça fait bien longtemps que je n\'ai pas rit de joie à la maison.',
+    citation: 'Tu sais, ça fait bien longtemps que je n\'ai pas ri de joie à la maison.',
   },
   citation5: {
     auteur: 'Martin Cadoux',
@@ -37,10 +37,10 @@ module.exports = {
   },
   citation10: {
     auteur: 'Lilian Cahuzac',
-    citation: 'Tu sais au Mexique, il ne faut surtout pas monter à l\'arrière d\'un métro... car y\'a des hommes qui aiment se frotter à d\'autres /o/ j\'ariiiive.',
+    citation: 'J\'ai arrêté de fumer ....... qui à une clope ? .',
   },
   citation11: {
     auteur: 'Stéfano Alletti',
-    citation: 'Excusez moi les gars mais je vais allez faire caca.',
+    citation: 'Excusez moi les gars ... mais je vais allez faire caca.',
   }
 };
